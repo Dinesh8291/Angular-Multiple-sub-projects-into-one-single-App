@@ -1,5 +1,6 @@
-# AngulaeMutliProject
+# AngularMutliProject
 
+This repo contains a basics implement of multiple angular project into one single angular projects meaning you only need to ng serve one time even if u want to run multiple project.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
 
 ## Development server

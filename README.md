@@ -2,7 +2,7 @@
 
 This repo contains a basics implement of multiple angular project into one single angular projects meaning you only need to ng serve one time even if u want to run multiple project.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
-
+host demo : https://angular-multiple-sub-projects-into-one-single-dr7t4milp.vercel.app/
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.

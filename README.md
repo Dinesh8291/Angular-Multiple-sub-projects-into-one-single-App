@@ -1,8 +1,11 @@
 # AngularMutliProject
 
-This repo contains a basics implement of multiple angular project into one single angular projects meaning you only need to ng serve one time even if u want to run multiple project.
+This repo contains a basics implementation of multiple angular projects into one single angular project meaning you only need to ng serve one time abd that will run  all your apps.
+In the app.module.ts you will notice that each sub-app is handled through lazyloading and main app views are directs listed paths. That's how i handled if you have better way please do inform.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
+
 host demo : https://angular-multiple-sub-projects-into-one-single-dr7t4milp.vercel.app/
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
